@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - CharacterVR
+  - Interactable
+  - Slot
+  - HandVR
   - 
   - 
   - 
